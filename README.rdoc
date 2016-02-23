@@ -1,4 +1,16 @@
+Testing Specs for recipes:
+1. name :string
+2. summary :text
+3. description :text
 
+name must be present
+name 5chars to 100char
+
+summary must be present
+summary must be 10 chars to 250 chars
+
+description must be present
+description must be 10 chars to 500 chars
 
 
 == README
